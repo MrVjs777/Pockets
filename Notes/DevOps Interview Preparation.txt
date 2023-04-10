@@ -1,0 +1,92 @@
+==========================
+DevOps Interview Preparation
+==========================
+
+
+================ Self Introduction ===================
+
+1) Who are you + What is your experience + Where you are working
+
+2) What are your technical skills
+
+3) What is your project
+
+4) What are your roles & responisbilities
+
+========================================
+
+=> I am Ashok, having 4+ years of exp as a Devops enginner with AWS cloud platform. Currently i am working with TCS company from Hyd location.
+
+=> In these 4 years of exp, i got opportunity to wok with several devops tools and aws services.
+
+=> I am having good work experience with Build Tools like Maven & Gradle to automate build process.
+
+=> I am having good work experience with Version Control Softwares like Git Hub and BitBucket where our project source code will integrated.
+
+=> I am having good work experience with Artifactory Repo servers like Nexus which is used to store build artifacts and store shared libs of project.
+
+=> I am having good work experience with SonarQube to perform Code Quality Check and generate reports.
+
+=> I am having good work experience with Jenkins CI CD to automate Build & Deployment process of the application using pipelines.
+
+=> I am having good work experience with Ansible to automate configuration management
+
+=> I am having good work experience with Terraform to provision infrastructure
+
+=> I am having good work experience with Docker & Kubernetes to containerize and orchestrate our applications.
+
+=> I am having good work experience with AWS Services like EC2, EBS, LBR, ASG, VPC, IAM, RDS, Beanstalk, Lambdas, EKS etc....
+
+
+=> Currently i am working on Health Insurance System. Citizens will use this application to apply for Health insurance plans and based on their health conditions system will decide coverage for them. 
+
+=> This application is developed by using Java Spring Boot and Angular.
+			
+			Frontend - Angular
+			Backend - Java with Spring Boot
+			Database - Oracle (RDS)
+
+
+=> Coming to my roles & Responsibilities in the project
+
+			=> Creating Infrastructure in the cloud
+			=> Managing configurations
+			=> Managing RBACs
+			=> Creating Git Repos & Branching Strategy
+			=> Writing CI CD Pipelines in Jenkins
+			=> Uploading Shared libs into Nexus
+			=> Executing Pipelines & Monitoring Pipelines etc..
+			=> Fixing the issues
+			=> Writing Docker files & K8S Manifest file
+			=> Writing Ansible Playbooks
+
+========================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

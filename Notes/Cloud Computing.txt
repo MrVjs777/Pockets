@@ -1,0 +1,108 @@
+================
+Cloud Computing
+================
+
+-> Cloud Computing means the process of delivering on-demanded resources over the internet
+
+-> Instead of buying, owning & maintaing infrastructure we can take it from Cloud Provider
+
+-> There are several advantages with Cloud Computing
+
+1) Low cost
+2) Pay As You Go ( Ex: Post paid mobile bill, credit card bill etc.. )
+3) Scalability ( increasning & decreasing )
+4) Availability ( zero downtime )
+5) Reliability ( Strong )
+6) Security
+7) Unlimited Storage
+8) Backup
+
+
+On-Premise Infrastructure ( in-house infrastructure )
+
+Cloud Infrastructure ( provider managed infrastructure )
+
+
+=============
+Cloud Provider
+=============
+
+-> The company which is providing cloud infrastructure is called as Cloud Provider
+
+
+Amazon ----------> AWS ( 80 % )
+
+Microsoft -------> Azure
+
+Google ---------> GCP
+
+Salesforce ------> Salesforce CRM
+
+Oracle -----------> Oracle Cloud
+
+IBM  --------------> IBM Cloud
+
+
+=============
+Cloud Services
+=============
+
+IAAS : Infrastructure as a service
+
+PAAS : Platform as a service
+
+SAAS : Software as a service
+
+
+
+===========
+AWS Cloud
+===========
+
+-> AWS stands for Amazon Webservices
+
+-> AWS providing cloud infrastructure since 2006
+
+-> AWS providing cloud infrastructure based on 'Pay As You Go' model
+
+-> AWS offering 200+ services
+
+-> AWS cloud services are using in 190+ countries
+
+-> AWS having Global Infrastructure
+
+=======================
+AWS Global Infrastructure
+=======================
+
+-> AWS providing global infrastructure using Regions & Availability Zone
+
+
+Region ---------> Geographical Location
+
+Avaliability Zone -----------> Data Center
+
+
+Note: One Region will have multiple Availability Zones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
